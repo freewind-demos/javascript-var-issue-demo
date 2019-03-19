@@ -1,13 +1,7 @@
-JavaScript Backend Hello World Demo
+JavaScript "var" Issue Demo
 ===================================
 
 ```
 npm install
 npm run demo
-```
-
-It will print:
-
-```
-Hello, Javascript
 ```
